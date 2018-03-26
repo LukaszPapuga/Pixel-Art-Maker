@@ -1,71 +1,65 @@
 body {
-    text-align: center;
-    background: linear-gradient(113.77634349723382deg, rgba(149, 168, 181, 1) 6.140625%, rgba(61, 72, 78, 1) 95.51562499999999%);
-    
+  text-align: center;
+  background: linear-gradient(113.77634349723382deg, rgba(149, 168, 181, 1) 6.140625%, rgba(61, 72, 78, 1) 95.51562499999999%);
 }
-
-input[type=submit] {
-    font-family: '5by7Regular';
-    font-size: 20px;
-    border-radius: 8px;
+input[type=submit]{
+    font-family: '5by7Regular'; 
+  font-size: 20px;
+  border-radius: 8px;
 }
-
 #refresh {
-    font-family: '5by7Regular';
+    font-family: '5by7Regular'; 
     font-size: 20px;
-    border-radius: 8px;
+	border-radius: 8px;
 }
 
 h1 {
-    font-family: '5by7Regular';
-    font-size: 70px;
-    margin: 0.2em;
-    color: orange;
+  font-family: '5by7Regular'; 
+  font-size: 70px;
+  margin: 0.2em;
+  color: orange;
 }
 
 h2 {
-    font-family: '5by7Regular';
-    font-size: 20px;
-    margin: 1em 0 0.25em;
+  font-family: '5by7Regular'; 
+  font-size: 20px;
+  margin: 1em 0 0.25em;
 }
 
 h2:first-of-type {
-    margin-top: 0.5em;
+  margin-top: 0.5em;
 }
 
-table,
-tr,
-td {
-    border: 1px solid #1E2D0C;
+table, tr, td {
+  border: 1px solid #1E2D0C;
 }
 
 table {
-    border-collapse: collapse;
-    margin: 0 auto;
+  border-collapse: collapse;
+  margin: 0 auto;
 }
 
 tr {
-    height: 20px;
+  height: 20px;
 }
-
 form {
-    font-family: '5by7Regular';
-    font-size: 20px;
-    color: yellow;
+  font-family: '5by7Regular'; 
+  font-size: 20px;
+  color: yellow;
 }
 
 
 td {
-    width: 20px;
+  width: 20px;
 }
 
 input[type=number] {
-    width: 6em;
-    background-color: #f1f1f1;
+  width: 6em;
+  background-color: #f1f1f1;
 }
 
 #buttons {
-
-
-    padding-top: 25px;
+ 
+  
+  padding-top: 25px;
 }
