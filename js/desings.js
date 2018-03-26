@@ -24,3 +24,4 @@ $("input[type='submit']").click(function(creation) {
 $('#refresh').click(function() {
     location.reload();
 });
+
