@@ -1,6 +1,8 @@
 body {
   text-align: center;
-  background: linear-gradient(113.77634349723382deg, rgba(149, 168, 181, 1) 6.140625%, rgba(61, 72, 78, 1) 95.51562499999999%);
+  background-color: #00238c;
+background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+
 }
 input[type=submit]{
     font-family: '5by7Regular'; 
